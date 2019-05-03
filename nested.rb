@@ -86,7 +86,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-     known_for = (:known_for => "Ruby")
+     known_for = (:known_for = "Ruby")
   programmer_hash[:yukihiro_matsumoto] = known_for
   
   
