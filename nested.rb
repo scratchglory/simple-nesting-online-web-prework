@@ -87,7 +87,7 @@ def adding_matz
         }
      }
      new_hash = {:known_for => "Ruby", :languages => ["LISP", "C"]}
-  
+    programmer_hash[:yukihiro_matsumoto] = new_hash
   
   programmer_hash
   binding.pry
