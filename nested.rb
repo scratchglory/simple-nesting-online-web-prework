@@ -70,6 +70,7 @@ def adding_matz
 #   :known_for => "Ruby",
 #    :languages => ["LISP", "C"]
 # }
+#   Have to make a new hash ={}
 
 	programmer_hash = 
  		{
